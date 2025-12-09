@@ -80,7 +80,7 @@ LANDING
 }
 
 header {
-    height: calc(100vh - 80px);
+    min-height: calc(100vh - 80px);
 }
 
 .header__conntainer {
@@ -175,7 +175,7 @@ HIGHLIGHTS
     content: "";
     position: absolute;
     width: 101vw;
-    height: 20vh;
+    height: 12vh;
     top: 1px;
     left: 0;
     z-index: 1;
